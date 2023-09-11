@@ -49,6 +49,7 @@ Alternatively you can install the package locally and add a script to your proje
 | Option         | Example               | Default |
 | -------------- | --------------------- | ------: |
 | --proxyUrl     | https://www.google.ie |         |
+| --proxy2Url    | https://www.foo.com   |         |
 | --proxyPartial | foo                   |   proxy |
 | --port         | 8010                  |    8010 |
 | --credentials  | (no value needed)     |   false |
